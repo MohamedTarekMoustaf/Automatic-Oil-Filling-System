@@ -8,11 +8,11 @@ This repository houses a project aimed at automating the Oil filling process usi
 Code developed in Siemens' TIA Portal for fully automating the oil filling process.
 Systematic ladder logic ensuring precise control.
 
-![image](https://github.com/IbrahimEssakine/oil_Filling_Automation/assets/103626975/12a931a1-ecaf-441e-bf02-bbbd7b1ac059)
+![image](https://github.com/IbrahimEssakine/water_Filling_Automation/assets/103626975/12a931a1-ecaf-441e-bf02-bbbd7b1ac059)
 
 PLC tags
 
-![image](https://github.com/IbrahimEssakine/oil_Filling_Automation/assets/103626975/88b55e33-7907-45ec-bcd0-f2c4472bc555)
+![image](https://github.com/IbrahimEssakine/water_Filling_Automation/assets/103626975/88b55e33-7907-45ec-bcd0-f2c4472bc555)
 
 The First 2 lasdder blocs
 
@@ -22,7 +22,7 @@ There's 14 Ladder Blocs to automate the filling system (you can findtheme in the
 User-friendly interface designed for monitoring and controlling oil levels.
 Simplified oil management through intuitive controls.
 
-![image](https://github.com/IbrahimEssakine/oil_Filling_Automation/assets/103626975/9c0409ca-d6dd-48e6-ad75-7aabdc45df20)
+![image](https://github.com/IbrahimEssakine/water_Filling_Automation/assets/103626975/9c0409ca-d6dd-48e6-ad75-7aabdc45df20)
 
 # Technologies Used:
 Siemens' TIA Portal
