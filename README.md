@@ -29,7 +29,7 @@ Siemens' TIA Portal
 
 # Simulation:
 
-![video-to-gif-converter](https://github.com/IbrahimEssakine/oil_Filling_Automation/assets/103626975/4423bf1d-e7bd-4cfb-8d21-bc573cae87fa)
+![video-to-gif-converter](https://github.com/IbrahimEssakine/water_Filling_Automation/assets/103626975/4423bf1d-e7bd-4cfb-8d21-bc573cae87fa)
 
 # Implementation Highlights:
 Ladder diagram code for comprehensive automation of the oil filling process.
