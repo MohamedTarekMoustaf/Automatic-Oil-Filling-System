@@ -1,7 +1,7 @@
 # Automated Water Filling System
 
 # Description:
-This repository houses a project aimed at automating the water filling process using Siemens' TIA Portal. The focus is on creating a streamlined system through a ladder diagram and a user-friendly Human-Machine Interface (HMI) for efficient water level monitoring and control in the reservoir.
+This repository houses a project aimed at automating the Oil filling process using Siemens' TIA Portal. The focus is on creating a streamlined system through a ladder diagram and a user-friendly Human-Machine Interface (HMI) for efficient water level monitoring and control in the reservoir.
 
 # Features:
 # Ladder Diagram:
